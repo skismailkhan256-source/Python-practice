@@ -1,4 +1,7 @@
-# 4.take the age as a input and print it
+# 4.Convert initeger to string
 
-age = int(input('Enter your age: '))
-print("Your age is: ",age)
+a = 67
+a = str(a)
+print(a)
+print(type(a))
+

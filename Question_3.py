@@ -1,3 +1,5 @@
-# 3. Take name as a input from user and print 
-name = input("Enter your name:")
-print("Your name is: ",name)
+# 3.convert string to integer
+age = '55'
+age = int(age)
+print(int(age))
+print(type(age))
